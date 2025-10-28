@@ -2,6 +2,8 @@
 
 Objective: Enable businesses to quickly understand customer feedback and sentiment trends.
 
+Note: This project includes sample review data for demonstration and learning purposes.
+
 ---
 
 ## Strategic Approach
@@ -17,4 +19,3 @@ Objective: Enable businesses to quickly understand customer feedback and sentime
 - Explore how language models can support customer satisfaction monitoring.
 
 This project illustrates a high-level workflow for interpreting customer feedback and deriving strategic insights.
-
