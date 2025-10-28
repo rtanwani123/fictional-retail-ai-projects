@@ -1,0 +1,61 @@
+review_id,product_id,product_name,category,review_text,rating,date
+1,P1001,ComfyRun Sneakers,Shoes,Love these sneakers — very comfortable and stylish. Perfect for daily runs.,5,2025-01-10
+2,P1001,ComfyRun Sneakers,Shoes,Good cushioning but the sizing runs small. Consider ordering one size up.,4,2025-01-12
+3,P1001,ComfyRun Sneakers,Shoes,Soles wore out after two months of light use. Disappointed.,2,2025-03-05
+4,P1002,Everyday Hoodie,Apparel,Warm and soft. Great color and fits well.,5,2025-02-02
+5,P1002,Everyday Hoodie,Apparel,Nice fabric but the zipper got stuck after a week.,3,2025-02-15
+6,P1002,Everyday Hoodie,Apparel,Too baggy for my taste. I expected a slimmer fit.,3,2025-04-22
+7,P1003,BreezeBlender,Home,Blends smoothies quickly and is easy to clean.,5,2025-01-25
+8,P1003,BreezeBlender,Home,Stopped working after three uses — customer service helped but slow process.,2,2025-03-02
+9,P1003,BreezeBlender,Home,"Good value for the price. Not the quietest, though.",4,2025-02-18
+10,P1004,ClearSound Earbuds,Electronics,Great sound and battery life. Comfortable for long use.,5,2025-02-11
+11,P1004,ClearSound Earbuds,Electronics,Left earbud lost connection often. Frustrating during calls.,2,2025-03-20
+12,P1004,ClearSound Earbuds,Electronics,Good budget option. Noise isolation could be better.,4,2025-01-30
+13,P1005,TravelLite Suitcase,Accessories,Lightweight and durable. Wheels are smooth.,5,2025-02-28
+14,P1005,TravelLite Suitcase,Accessories,Handle wobbled after one trip. Quality control issue?,2,2025-03-19
+15,P1006,CozyPillow,Home,Best pillow I have had — comfortable and supportive.,5,2025-01-05
+16,P1006,CozyPillow,Home,"A bit too firm for side sleepers, but overall okay.",4,2025-03-11
+17,P1006,CozyPillow,Home,Lost shape after a month. Not as described.,2,2025-04-01
+18,P1007,ActiveFit T-Shirt,Apparel,"Breathable fabric, perfect for workouts.",5,2025-02-07
+19,P1007,ActiveFit T-Shirt,Apparel,Shrinked a bit after first wash. Follow washing instructions.,3,2025-03-09
+20,P1008,SmartTrack Watch,Electronics,Great fitness features and accurate heart rate monitoring.,5,2025-02-20
+21,P1008,SmartTrack Watch,Electronics,Battery drains quicker than advertised.,3,2025-04-05
+22,P1008,SmartTrack Watch,Electronics,Excellent value for the price — a solid mid-range watch.,4,2025-01-18
+23,P1009,EveryDay Jeans,Apparel,Comfortable and holds shape well after multiple washes.,5,2025-01-22
+24,P1009,EveryDay Jeans,Apparel,The color faded faster than expected.,3,2025-03-14
+25,P1009,EveryDay Jeans,Apparel,"Great fit, true to size.",5,2025-02-09
+26,P1010,SunShield Hat,Accessories,Stylish and blocks sun well. Good summer hat.,5,2025-04-10
+27,P1010,SunShield Hat,Accessories,Label was itchy — had to remove it.,3,2025-04-18
+28,P1011,FreshBrew Kettle,Home,Boils water fast and the auto-shutoff is reliable.,5,2025-01-29
+29,P1011,FreshBrew Kettle,Home,Exterior got scratched easily. Not impressed.,2,2025-03-22
+30,P1012,ComfyRun Socks,Shoes,Excellent padding and breathability.,5,2025-02-03
+31,P1012,ComfyRun Socks,Shoes,One pair had a hole after first wash.,2,2025-03-25
+32,P1003,BreezeBlender,Home,Makes great soups and sauces. Versatile appliance.,5,2025-04-02
+33,P1004,ClearSound Earbuds,Electronics,Pairing was seamless. Good clarity.,5,2025-01-14
+34,P1004,ClearSound Earbuds,Electronics,Charging case lid is loose; feels cheap.,2,2025-02-26
+35,P1005,TravelLite Suitcase,Accessories,Perfect size for weekend trips. Sturdy build.,5,2025-01-08
+36,P1006,CozyPillow,Home,Very soft and helps with neck pain.,5,2025-02-16
+37,P1001,ComfyRun Sneakers,Shoes,Loved the color but they felt stiff initially.,4,2025-04-04
+38,P1002,Everyday Hoodie,Apparel,Pilling after a few washes. Disappointed.,2,2025-04-20
+39,P1008,SmartTrack Watch,Electronics,Syncs well with my phone and tracks workouts accurately.,5,2025-03-28
+40,P1007,ActiveFit T-Shirt,Apparel,Material is nice but the seams started fraying.,2,2025-04-12
+41,P1009,EveryDay Jeans,Apparel,"Comfortable for long wear, great stitching.",5,2025-03-01
+42,P1013,GlowLamp,Home,Creates a nice ambiance and the dimmer works well.,5,2025-02-06
+43,P1013,GlowLamp,Home,Light flickers sometimes — probable defect.,2,2025-03-17
+44,P1014,QuickCharge Cable,Electronics,Charges my phone fast and durable so far.,5,2025-01-19
+45,P1014,QuickCharge Cable,Electronics,Cable stopped working after two weeks.,1,2025-03-06
+46,P1015,RainGuard Jacket,Apparel,Waterproof and breathable. Perfect for rainy days.,5,2025-02-23
+47,P1015,RainGuard Jacket,Apparel,Zipper failed during first heavy rain. Returned the item.,1,2025-04-08
+48,P1016,GripMat,Home,Good grip and non-slip. Great for kitchen use.,4,2025-01-31
+49,P1016,GripMat,Home,Edges started curling after a month.,2,2025-03-12
+50,P1017,TravelPillow,Accessories,Compact and comfortable on long flights.,5,2025-02-13
+51,P1017,TravelPillow,Accessories,Inflation valve leaked air on second use.,2,2025-03-21
+52,P1018,FlexiBrush,Home,Cleans well and fits in tight corners.,5,2025-01-27
+53,P1018,FlexiBrush,Home,Handle broke after a month. Weak plastic.,2,2025-04-03
+54,P1005,TravelLite Suitcase,Accessories,Locks are secure and build is high quality.,5,2025-04-15
+55,P1004,ClearSound Earbuds,Electronics,Microphone quality is good for calls.,4,2025-02-05
+56,P1008,SmartTrack Watch,Electronics,Software update fixed earlier bugs; now works smoothly.,4,2025-04-20
+57,P1001,ComfyRun Sneakers,Shoes,Stylish look and good support for long walks.,5,2025-03-29
+58,P1002,Everyday Hoodie,Apparel,Perfect for chilly mornings. Love the pocket design.,5,2025-01-07
+59,P1011,FreshBrew Kettle,Home,"Auto-shutoff malfunctioned once, but replacement was quick.",3,2025-04-07
+60,P1009,EveryDay Jeans,Apparel,Customer service was helpful when I needed a size exchange.,5,2025-04-18
