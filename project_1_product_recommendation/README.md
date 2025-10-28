@@ -2,6 +2,8 @@
 
 Objective: Improve product discovery and customer experience by recommending relevant items from a catalog.
 
+Note: This project includes example product data for demonstration and learning purposes.
+
 ---
 
 ## Strategic Approach
@@ -17,4 +19,3 @@ Objective: Improve product discovery and customer experience by recommending rel
 - Explore AI techniques conceptually, without needing to focus on code.
 
 This project demonstrates a framework for using AI to enhance customer-facing retail solutions.
-
