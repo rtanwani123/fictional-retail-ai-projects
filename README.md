@@ -3,6 +3,8 @@
 This repository contains a collection of AI/ML projects designed to demonstrate strategic approaches to solving retail challenges.  
 The projects focus on high-level solutions, workflows, and methodologies that can be applied in business contexts for learning and experimentation.
 
+Each project includes **sample input data** to illustrate concepts and workflows.
+
 ---
 
 ## Projects Overview
