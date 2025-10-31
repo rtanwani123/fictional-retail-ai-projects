@@ -1,25 +1,23 @@
-AI-Powered Marketing Content Generator
+# AI-Powered Marketing Content Generator
 
-Objective: Automatically generate creative and witty marketing content — including product descriptions and ad copy — for products in a fictional retail company.
+**Objective:** Automatically generate creative and witty marketing content — including product descriptions and ad copy — for products in a fictional retail company.
 
-Note: This project is purely fictional and intended for educational and demonstration purposes.
+**Note:** This project is fictional and intended for demonstration and learning purposes.
 
-Strategic Approach
+---
 
-Use a free and secure generative AI model (google/flan-t5-large) to produce compelling text outputs.
+## Strategic Approach
+- Use a free and secure generative AI model to produce creative marketing text for individual products.  
+- Apply distinct prompt templates for **Product Description** and **Ad Copy** so each content type serves a different communication goal (informative vs. persuasive).  
+- Provide an interactive Gradio interface to let users select products and content types and evaluate outputs.  
+- Emphasize **prompt engineering** as the primary control mechanism: carefully crafted prompts direct tone, structure, length, and marketing intent.
 
-Implement distinct prompt templates for product descriptions and ad copy to ensure variation in tone and purpose.
+---
 
-Build an interactive Gradio interface for easy product and content-type selection.
+## Learning Value
+- Learn how **prompt design** influences the behavior, tone, and reliability of generative models.  
+- See practical ways Generative AI can accelerate marketing tasks like product storytelling and ad copy generation.  
+- Explore trade-offs between model size, inference speed, and output quality when using free/open models.  
+- Gain experience building an interactive demo that non-technical stakeholders can use to evaluate AI-produced marketing content.
 
-Demonstrate how prompt design directly influences the quality, tone, and creativity of AI-generated content.
-
-Learning Value
-
-Understand the importance of prompt engineering in shaping generative AI behavior.
-
-Learn how Generative AI can accelerate marketing workflows such as copywriting and product storytelling.
-
-Explore how lightweight, cost-free AI models can be effectively applied to real-world creative tasks.
-
-Gain experience building interactive AI tools that bridge creativity and automation.
+This project demonstrates how well-structured prompts and lightweight, free models can be combined to support marketing workflows in a safe, repeatable manner.
