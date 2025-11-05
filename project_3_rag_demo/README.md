@@ -6,6 +6,12 @@ Note: This project includes sample documents for demonstration and learning purp
 
 ---
 
+## How to Run in Google Colab
+- Important: Before running the notebook, upload all text documents needed for the demo into /content/fictional_retail_docs/
+
+
+---
+
 ## Strategic Approach
 - Retrieve relevant information from documents using semantic similarity.  
 - Generate coherent answers by combining retrieved context with language generation models.  
