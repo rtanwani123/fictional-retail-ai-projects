@@ -6,6 +6,11 @@ Note: This project includes example product data for demonstration and learning 
 
 ---
 
+## How to Run in Google Colab
+- Important: Before running the notebook, upload all required files (fictional_retail_products.csv) to Google Colab. Ensure the folder path in the code (/content/fictional_retail_docs) matches your uploaded files.
+
+---
+
 ## Strategic Approach
 - Represent product information in a form that AI can understand.  
 - Implement a search mechanism to match customer queries with relevant products.  
@@ -20,5 +25,4 @@ Note: This project includes example product data for demonstration and learning 
 
 This project demonstrates a framework for using AI to enhance customer-facing retail solutions.
 
-## How to Run in Google Colab
-- Important: Before running the notebook, upload all required files (fictional_retail_products.csv) to Google Colab. Ensure the folder path in the code (/content/fictional_retail_docs) matches your uploaded files.
+
