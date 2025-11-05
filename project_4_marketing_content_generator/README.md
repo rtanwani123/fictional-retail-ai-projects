@@ -6,6 +6,11 @@
 
 ---
 
+## How to Run in Google Colab
+- Important: Before running the notebook, upload fictional_retail_products.csv to /content/fictional_retail_docs/
+
+---
+
 ## Strategic Approach
 - Use a free and secure generative AI model to produce creative marketing text for individual products.  
 - Apply distinct prompt templates for **Product Description** and **Ad Copy** so each content type serves a different communication goal (informative vs. persuasive).  
