@@ -3,6 +3,10 @@
 Objective: Enable businesses to quickly understand customer feedback and sentiment trends.
 
 Note: This project includes sample review data for demonstration and learning purposes.
+---
+
+## How to Run in Google Colab
+- Important: Before running the notebook, upload the required file (fictional_retail_review.csv) to Google Colab and ensure the folder path (/content/fictional_retail_docs) matches the notebook.
 
 ---
 
