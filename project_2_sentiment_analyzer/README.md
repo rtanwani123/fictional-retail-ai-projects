@@ -19,3 +19,6 @@ Note: This project includes sample review data for demonstration and learning pu
 - Explore how language models can support customer satisfaction monitoring.
 
 This project illustrates a high-level workflow for interpreting customer feedback and deriving strategic insights.
+
+## How to Run in Google Colab
+- Important: Before running the notebook, upload the required file (fictional_retail_review.csv) to Google Colab and ensure the folder path (/content/fictional_retail_docs) matches the notebook.
