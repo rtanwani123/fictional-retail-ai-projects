@@ -19,3 +19,6 @@ Note: This project includes example product data for demonstration and learning 
 - Explore AI techniques conceptually, without needing to focus on code.
 
 This project demonstrates a framework for using AI to enhance customer-facing retail solutions.
+
+## How to Run in Google Colab
+- Important: Before running the notebook, upload all required files (fictional_retail_products.csv) to Google Colab. Ensure the folder path in the code (/content/fictional_retail_docs) matches your uploaded files.
